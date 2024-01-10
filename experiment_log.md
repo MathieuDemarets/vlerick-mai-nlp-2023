@@ -7,3 +7,5 @@
 |       0.553 |    0.555 |      0.532 |       547 | 2023-12-30 11:27 | min, max, lensentence, first word's embedding |
 |       0.682 |    0.723 |      0.693 |       547 | 2023-12-30 11:28 | transformer sentence embeddings               |
 |       1     |    1     |      1     |       547 | 2023-12-30 11:57 | Transformers dummy                            |
+|       0.668 |    0.665 |      0.645 |       547 | 2024-01-10 16:21 | Test                                          |
+|       0.677 |    0.686 |      0.661 |       547 | 2024-01-10 16:45 | TFIDF                                         |
