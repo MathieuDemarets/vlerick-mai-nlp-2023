@@ -15,6 +15,7 @@ punctuations = string.punctuation
 nlp = None
 stop_words = None
 
+
 def spacy_tokenizer(sentence):
     """
     Tokenises a sentence using spaCy.
@@ -76,7 +77,8 @@ def log_experiment_results(experiment_name, stats, filename="experiment_log.md")
 
     df = pd.concat([df, pd.DataFrame([stats])], ignore_index=True)
     df = df[
-        ["precision", "recall", "f1-score", "support", "timestamp", "Experiment Name"]
+        ["precision", "recall", "f1-score",
+            "support", "timestamp", "Experiment Name"]
     ]
     markdown_table = tabulate(
         df,
