@@ -1,0 +1,11 @@
+
+climate-related risks have become a major concern for financial regulators and can pose a significant threat to
+financial stability. in this paper, we first propose a theoretical framework for the transmission of climate risks
+to financial institutions and the financial system. we then estimate the influence of physical and transition
+risks on the european financial system through bank-level and system-wide measures of financial stability. we
+find that scope 3 greenhouse gas emissions, chronic and acute climate risks negatively affect financial stability
+at both the financial institution and system levels. temperature anomalies, heat waves, wildfires and droughts
+are among the most significant risks. as europe warms twice as fast as the rest of the world, our theoretical
+and empirical results urge regulators to mandatorily require the assessment and disclosure of corporate climate
+risks to allow banks to adjust their prudential capital requirements.
+1. 

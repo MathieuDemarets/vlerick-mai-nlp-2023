@@ -1,0 +1,20 @@
+
+the past decade has witnessed a rapid growth of research on fair-
+ness in machine learning. in contrast, fairness has been formally
+studied for almost a century in microeconomics in the context of
+resource allocation, during which many general-purpose notions
+of fairness have been proposed. this paper explore the applicability
+of two such notions — envy-freeness and equitability — in machine
+learning. we propose novel relaxations of these fairness notions
+which apply to groups rather than individuals, and are compelling
+in a broad range of settings. our approach provides a unifying
+framework by incorporating several recently proposed fairness
+definitions as special cases. we provide generalization bounds for
+our approach, and theoretically and experimentally evaluate the
+tradeoff between loss minimization and our fairness guarantees.
+ccs concepts
+• computing methodologies → machine learning; • applied
+computing → economics.
+keywords
+group envy-freeness, group equitability, fairness, generalization
+1

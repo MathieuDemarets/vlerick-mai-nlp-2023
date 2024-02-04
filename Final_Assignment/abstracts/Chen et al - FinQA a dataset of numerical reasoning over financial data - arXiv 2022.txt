@@ -1,0 +1,30 @@
+
+the sheer volume of financial statements
+makes it difficult for humans to access and an-
+alyze a business’s financials. robust numeri-
+cal reasoning likewise faces unique challenges
+in this domain.
+in this work, we focus on
+answering deep questions over financial data,
+aiming to automate the analysis of a large cor-
+pus of financial documents. in contrast to ex-
+isting tasks on general domain, the finance do-
+main includes complex numerical reasoning
+and understanding of heterogeneous represen-
+tations. to facilitate analytical progress, we
+propose a new large-scale dataset, finqa,
+with question-answering pairs over financial
+reports, written by financial experts. we also
+annotate the gold reasoning programs to en-
+sure full explainability. we further introduce
+baselines and conduct comprehensive experi-
+ments in our dataset. the results demonstrate
+that popular, large, pre-trained models fall far
+short of expert humans in acquiring finance
+knowledge and in complex multi-step numer-
+ical reasoning on that knowledge. our dataset
+— the first of its kind — should therefore en-
+able significant, new community research into
+complex application domains. the dataset and
+code are publicly available1.
+1

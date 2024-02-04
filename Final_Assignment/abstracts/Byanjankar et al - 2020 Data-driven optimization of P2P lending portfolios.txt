@@ -1,0 +1,22 @@
+
+in recent years, peer-to-peer (p2p) lending has been gaining popularity amongst bor-
+rowers and individual investors. this can mainly be attributed to the easy and quick
+access to loans and the higher possible returns. however, the risk involved in these
+investments is considerable, and for most investors, being nonprofessionals, this
+increases the complexity and the importance of investment decisions. in this study,
+we focus on generating optimal investment decisions to lenders for selecting loans.
+we treat the loan selection process in p2p lending as a portfolio optimization prob-
+lem, with the aim being to select a set of loans that provide a required return while
+minimizing risk. in the process, we use internal rate of return as the measure of
+return. as the starting point of the model, we use machine-learning algorithms to pre-
+dict the default probabilities and calculate expected values for the loans based on his-
+torical data. afterwards, we calculate the distance between loans using (i) default
+probabilities and, as a novel step, (ii) expected value. in the calculations, we utilize
+kernel functions to obtain similarity weights of loans as the input of the optimization
+models. two optimization models are tested and compared on data from the popular
+p2p platform lending club. the results show that using the expected-value frame-
+work yields higher return.
+k e y w o r d s
+expected-value framework, peer-to-peer lending, portfolio optimization
+1
+|

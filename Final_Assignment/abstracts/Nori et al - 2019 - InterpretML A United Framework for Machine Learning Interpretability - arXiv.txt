@@ -1,0 +1,14 @@
+
+interpretml is an open-source python package which exposes machine learning inter-
+pretability algorithms to practitioners and researchers. interpretml exposes two types of
+interpretability – glassbox, which are machine learning models designed for interpretabil-
+ity (ex: linear models, rule lists, generalized additive models), and blackbox explainability
+techniques for explaining existing systems (ex: partial dependence, lime). the package
+enables practitioners to easily compare interpretability algorithms by exposing multiple
+methods under a unified api, and by having a built-in, extensible visualization platform.
+interpretml also includes the first implementation of the explainable boosting machine, a
+powerful, interpretable, glassbox model that can be as accurate as many blackbox models.
+the mit licensed source code can be downloaded from github.com/microsoft/interpret.
+keywords:
+interpretability, explainable boosting machine, glassbox, blackbox
+1. 

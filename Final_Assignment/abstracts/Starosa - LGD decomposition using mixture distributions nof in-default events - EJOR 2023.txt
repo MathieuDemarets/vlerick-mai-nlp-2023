@@ -1,0 +1,16 @@
+ 
+modeling loss in the case of default is a crucial task for financial institutions to support the decision 
+making process in the risk management framework. it has become an inevitable part of modern debt 
+collection strategies to keep promising loans on the banking book and to write off those that are not 
+expected to be recovered at a satisfactory level. research tends to model loss given default directly or 
+to decompose it based on the dependent variable distribution. such an approach neglects the patterns 
+which exist beneath the recovery process and are mainly driven by the activities made by collectors 
+in the event of default. to overcome this problem, we propose a decomposition of the lgd model that 
+integrates cures, partial recoveries, and write-offs into one equation, defined based on common collection 
+strategies. furthermore, various levels of data aggregation are applied to each component to reflect the 
+domain that influences each stage of the default process. to assess the robustness of our approach, we 
+propose a comparison with two benchmark models on two different datasets. we assess the goodness of 
+fit on out-of-sample data and show that the proposed decomposition is more effective than state-of-the- 
+art methods, maintaining a strong level of interpretability. 
+© 2020 elsevier b.v. all rights reserved. 
+1. 

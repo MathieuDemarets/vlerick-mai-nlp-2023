@@ -1,0 +1,36 @@
+
+we present a new financial domain large lan-
+guage model, investlm, tuned on llama-65b
+(touvron et al., 2023), using a carefully curated
+instruction dataset related to financial invest-
+ment. inspired by less-is-more-for-alignment
+(zhou et al., 2023), we manually curate a
+small yet diverse instruction dataset, covering
+a wide range of financial related topics, from
+chartered financial analyst (cfa) exam ques-
+tions to sec filings to stackexchange quan-
+titative finance discussions. investlm shows
+strong capabilities in understanding financial
+text and provides helpful responses to invest-
+ment related questions. financial experts, in-
+cluding hedge fund managers and research
+analysts, rate investlm’s response as com-
+parable to those of state-of-the-art commer-
+cial models (gpt-3.5, gpt-4 and claude-2).
+zero-shot evaluation on a set of financial nlp
+benchmarks demonstrates strong generalizabil-
+ity. from a research perspective, this work sug-
+gests that a high-quality domain specific llm
+can be tuned using a small set of carefully cu-
+rated instructions on a well-trained foundation
+model, which is consistent with the superfi-
+cial alignment hypothesis (zhou et al., 2023).
+from a practical perspective, this work devel-
+ops a state-of-the-art financial domain llm
+with superior capability in understanding fi-
+nancial texts and providing helpful investment
+advice, potentially enhancing the work effi-
+ciency of financial professionals. we release
+the model parameters to the research commu-
+nity1.
+1

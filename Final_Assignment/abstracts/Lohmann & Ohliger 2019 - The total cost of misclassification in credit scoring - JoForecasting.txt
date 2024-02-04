@@ -1,0 +1,19 @@
+
+this study examines whether the evaluation of a bankruptcy prediction model
+should take into account the total cost of misclassification. for this purpose, we
+introduce and apply a validity measure in credit scoring that is based on the
+total cost of misclassification. specifically, we use comprehensive data from
+the annual financial statements of a sample of german companies and analyze
+the total cost of misclassification by comparing a generalized linear model and
+a generalized additive model with regard to their ability to predict a company's
+probability of default. on the basis of these data, the validity measure we intro-
+duce shows that, compared to generalized linear models, generalized additive
+models can reduce substantially the extent of misclassification and the total
+cost that this entails. the validity measure we introduce is informative and
+justifies the argument that generalized additive models should be preferred,
+although such models are more complex than generalized linear models. we
+conclude that to balance a model's validity and complexity, it is necessary to
+take into account the total cost of misclassification.
+keywords
+bankruptcy prediction, cost of misclassification, generalized additive model, generalized linear model
+1 |

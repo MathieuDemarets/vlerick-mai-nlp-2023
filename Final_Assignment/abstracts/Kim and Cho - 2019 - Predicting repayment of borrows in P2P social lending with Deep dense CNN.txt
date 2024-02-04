@@ -1,0 +1,17 @@
+
+in peer‐to‐peer lending, it is important to predict the repayment of the borrower to
+reduce the lender's financial loss. however, it is difficult to design a powerful feature
+extractor for predicting the repayment as user and transaction data continue to
+increase. convolutional neural networks automatically extract useful features from
+big data, but they use only high‐level features; hence, it is difficult to capture a variety
+of representations. in this study, we propose a deep dense convolutional network for
+repayment prediction in social lending, which maintains the borrower's semantic
+information and obtains a good representation by automatically extracting important
+low‐ and high‐level features simultaneously. we predict the repayment of the bor-
+rower by learning discriminative features depending on the loan status. experimental
+results on the lending club dataset show that our model is more effective than other
+methods. a fivefold cross‐validation is performed to run the experiments.
+keywords
+deep learning, dense convolutional networks, peer‐to‐peer lending, repayment prediction
+1
+|

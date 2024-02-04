@@ -1,0 +1,13 @@
+: airtime lending default rates are typically lower than those experienced by banks and
+microfinance institutions (mfis) but are likely to grow as the service is offered more widely. in this
+paper, credit scoring techniques are reviewed, and that knowledge is built upon to create an
+appropriate machine learning model for airtime lending. over three million loans belonging to
+more than 41 thousand customers with a repayment period of three months are analysed. logistic
+regression, decision trees and random forest are evaluated for their ability to classify defaulters
+using several cross-validation approaches and the latter model performed best. when the default
+rate is below 2%, it is better to offer everyone a loan. for higher default rates, the model substantially
+enhances profitability. the model quadruples the tolerable level of default rate for breaking even from
+8% to 32%. nonlinear classification models offer considerable potential for credit scoring, coping
+with higher levels of default and therefore allowing for larger volumes of customers.
+keywords: financial inclusion; credit score; big data; machine learning; airtime
+1. 

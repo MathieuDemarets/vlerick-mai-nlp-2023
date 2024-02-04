@@ -1,0 +1,15 @@
+
+big data and the internet financial sector tremendously developed in the 21st century. the national emphasis on
+this field has also gradually improved. peer-to-peer (p2p) is an innovative mode of borrowing that is a powerful
+complement to the traditional financial industry. the projected default rate on credit is an absolute prerequisite
+for guaranteeing the proper operation of related financial projects or platforms. in this paper, we use ‘multi-
+observation’ and ‘multi-dimensional’ data cleaning method and apply the modern machine learning algorithms
+lightgbm in asia at the end of 2016 and xgboost, which are based on real p2p transaction data from lending
+club. the default risk of loans in the platform is strongly and innovatively predicted. and the results of different
+methods are compared. furthermore, we observe that the lightgbm algorithm based on multiple observational
+data set classification prediction results is the best. the average performance rate of the historical transaction
+data of the lending club platform rose by 1.28 percentage points, which reduced loan defaults by approximately
+$117 million. finally, with respect to the influencing factors of the default rate, suggested developments for the
+lending club and other p2p platforms are provided as is the suggested direction of other countries’ development
+in this field.
+1. 

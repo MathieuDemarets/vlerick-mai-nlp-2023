@@ -1,0 +1,12 @@
+   
+machine learning models have been actively utilized to quantitatively predict the default probability based on 
+the personal information obtained from loan applicants. although the relationship between loan applicants is 
+receiving attention as important soft information, only the simple individual network features and their relation 
+have been reflected in the prediction model. in this study, we propose a graph convolutional network (gcn)- 
+based credit default prediction model, which can reflect nonlinear relationships between borrower’s attributes 
+and default risk as well as high-order relationships between the borrowers. three types of information pertaining 
+to the borrowers are separately employed for their relations, namely loan information, credit history information, 
+and soft information. we compare our gcn model to baseline models using the data from an online peer-to-peer 
+lending platform. the results show that our approach outperforms existing classification models and identifies 
+the relative contribution of input attributes.   
+1. 

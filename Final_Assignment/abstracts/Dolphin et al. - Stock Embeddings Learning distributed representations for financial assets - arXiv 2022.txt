@@ -1,0 +1,19 @@
+—identifying meaningful relationships between the
+price movements of financial assets is a challenging but important
+problem in a variety of financial applications. however with
+recent research, particularly those using machine learning and
+deep learning techniques, focused mostly on price forecasting,
+the literature investigating the modelling of asset correlations has
+lagged somewhat. to address this, inspired by recent successes
+in natural language processing, we propose a neural model for
+training stock embeddings, which harnesses the dynamics of
+historical returns data in order to learn the nuanced relationships
+that exist between financial assets. we describe our approach in
+detail and discuss a number of ways that it can be used in
+the financial domain. furthermore, we present the evaluation
+results to demonstrate the utility of this approach, compared
+to several important benchmarks, in two real-world financial
+analytics tasks.
+index terms—latent representation, embedding, similarity,
+stock market, distributional semantics
+i. 

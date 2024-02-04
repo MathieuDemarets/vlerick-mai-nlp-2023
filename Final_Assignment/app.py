@@ -88,8 +88,9 @@ if __name__ == '__main__':
 
     ---
     """)
-    query = st.text_input("What do you want to know?",
-                          "What are good performance metrics for credit default models?")
+    query = st.text_input(
+        "What do you want to know?",
+        "What are good performance metrics for credit default models?")
     n = st.slider("Number of articles to retrieve:", 1, 10, 1)
     softmax = st.checkbox("Use softmax for ranking?")
     output_path = st.text_input(
@@ -103,6 +104,7 @@ if __name__ == '__main__':
     # Solution to shut down the app inspired by: https://discuss.streamlit.io/t/close-streamlit-app-with-button-click/35132/4
     if st.button("Shut Down"):
         # Give a bit of delay for user experience
+        st.write("Thank you for using our search engine!\nShutting down...")
         time.sleep(3)
         # Close streamlit browser tab
         keyboard.press_and_release('ctrl+w')

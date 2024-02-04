@@ -1,0 +1,15 @@
+
+knowing which factors are significant in credit rating assignment leads to better decision-making. however, the focus of the
+literature thus far has been mostly on structured data, and fewer studies have addressed unstructured or multi-modal datasets. in
+this paper, we present an analysis of the most effective architectures for the fusion of deep learning models for the prediction
+of company credit rating classes, by using structured and unstructured datasets of different types. in these models, we tested
+different combinations of fusion strategies with different deep learning models, including cnn, lstm, gru, and bert. we
+studied data fusion strategies in terms of level (including early and intermediate fusion) and techniques (including concatenation
+and cross-attention). our results show that a cnn-based multi-modal model with a hybrid fusion strategy outperformed other
+multi-modal techniques. in addition, by comparing simple architectures with more complex ones, we found that more sophisticated
+deep learning models do not necessarily produce the highest performance; however, if attention-based models are producing the
+best results, cross-attention is necessary as a fusion strategy. finally, our comparison of rating agencies on short-, medium-, and
+long-term performance shows that moody’s credit ratings outperform those of other agencies like standard & poor’s and fitch
+ratings.
+keywords: fusion strategies, deep learning, credit ratings, multi-modality, bert, cnn, cross-attention, earning call transcripts.
+1. 

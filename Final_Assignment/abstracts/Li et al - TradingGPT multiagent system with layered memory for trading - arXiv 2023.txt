@@ -1,0 +1,24 @@
+
+large language models (llms), prominently highlighted by the recent evolution in the generative
+pre-trained transformers (gpt) series, have displayed significant prowess across various domains,
+such as aiding in healthcare diagnostics and curating analytical business reports. the efficacy of
+gpts lies in their ability to decode human instructions, achieved through comprehensively processing
+historical inputs as an entirety within their memory system. yet, the memory processing of gpts
+does not precisely emulate the hierarchical nature of human memory, which is categorized into long,
+medium, and short-term layers. this can result in llms struggling to prioritize immediate and
+critical tasks efficiently. to bridge this gap, we introduce an innovative llm multi-agent framework
+endowed with layered memories. we assert that this framework is well-suited for stock and fund
+trading, where the extraction of highly relevant insights from hierarchical financial data is imperative
+to inform trading decisions. within this framework, one agent organizes memory into three distinct
+layers, each governed by a custom decay mechanism, aligning more closely with human cognitive
+processes. agents can also engage in inter-agent communication and debate. in financial trading
+contexts, llms serve as the decision core for trading agents, leveraging their layered memory system
+to integrate multi-source historical actions and market insights. this equips them to navigate financial
+changes, formulate strategies, and debate with peer agents about investment decisions. another
+standout feature of our approach is to enable agents with individualized trading characters, which
+enrich the diversity of their highlighted essential memories and improve decision-making robustness.
+by leveraging agents’ layered memory processing and consistent information interchange, the entire
+trading system demonstrates augmented adaptability to historical trades and real-time market cues.
+this synergistic approach guarantees premier automated trading with heightened execution accuracy.
+keywords financial ai, multi-modal learning, trading algorithms, deep learning, financial technology
+1

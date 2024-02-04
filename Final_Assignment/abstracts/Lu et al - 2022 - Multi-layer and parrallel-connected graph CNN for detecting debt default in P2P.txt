@@ -1,0 +1,16 @@
+
+this paper presents a multilayer and parallel-connected graph convolu-
+tional networks (mpgcns) method to explore whether a debtor–creditor 
+relationship network helps to detect the default risk in peer-to-peer (p2p) 
+lending. results show that: (1) the debtor–creditor relationship network 
+reflects lenders’ risk preference and borrowers’ successful loan information. 
+(2) the proposed mpgcns method can detect default risk accurately. 
+therefore, considering the structure of the debtor–creditor relationship 
+network is helpful for p2p lending regulators and government supervisors 
+to control risk.
+keywords 
+p2p; graph convolutional 
+networks; default; debtor– 
+creditor relationship 
+networks
+1. 

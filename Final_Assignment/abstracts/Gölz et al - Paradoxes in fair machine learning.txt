@@ -1,0 +1,13 @@
+
+equalized odds is a statistical notion of fairness in machine learning that ensures
+that classification algorithms do not discriminate against protected groups. we
+extend equalized odds to the setting of cardinality-constrained fair classification,
+where we have a bounded amount of a resource to distribute. this setting coincides
+with classic fair division problems, which allows us to apply concepts from that
+literature in parallel to equalized odds. in particular, we consider the axioms
+of resource monotonicity, consistency, and population monotonicity, all three of
+which relate different allocation instances to prevent paradoxes. using a geometric
+characterization of equalized odds, we examine the compatibility of equalized odds
+with these axioms. we empirically evaluate the cost of allocation rules that satisfy
+both equalized odds and axioms of fair division on a dataset of fico credit scores.
+1

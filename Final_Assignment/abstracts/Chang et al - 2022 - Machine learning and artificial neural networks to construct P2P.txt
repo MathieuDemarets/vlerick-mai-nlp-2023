@@ -1,0 +1,22 @@
+: in this study, we constructed the credit-scoring model of p2p loans by using several 
+machine learning and artificial neural network (ann) methods, including logistic regression (lr), 
+a support vector machine, a decision tree, random forest, xgboost, lightgbm and 2-layer neural 
+networks. this study explores several hyperparameter settings for each method by performing a grid 
+search and cross-validation to get the most suitable credit-scoring model in terms of training time 
+and test performance. in this study, we get and clean the open p2p loan data from lending club with 
+feature engineering concepts. in order to find significant default factors, we used an xgboost 
+method to pre-train all data and get the feature importance. the 16 selected features can provide 
+economic implications for research about default prediction in p2p loans. besides, the empirical 
+result shows that gradient-boosting decision tree methods, including xgboost and lightgbm, 
+outperform ann and lr methods, which are commonly used for traditional credit scoring. among 
+all of the methods, xgboost performed the best. 
+keywords: p2p lending; credit score; machine learning; artificial neural networks; feature engineering; 
+lending club 
+jel codes: d12, e41, e44, g20 
+ 
+ 
+304 
+quantitative finance and economics 
+ 
+volume 6, issue 2, 303–325. 
+1. 

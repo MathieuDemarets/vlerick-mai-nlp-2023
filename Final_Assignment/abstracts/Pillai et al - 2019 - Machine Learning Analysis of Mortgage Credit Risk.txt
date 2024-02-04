@@ -1,0 +1,25 @@
+—in 2008, the us experienced the worst financial
+crisis succeeding the great depression of the 1930s. a recession
+fueled by an influx of poorly underwritten mortgages, in which
+a high percentage of ”less credit-worthy” borrowers defaulted
+on their mortgage payments. to date, the market has recovered
+from the collapse but we must avoid the pitfalls of the previous
+market meltdown. greed and over zealous assumptions fueled
+the 2008 crisis and it is imperative that bank underwriters
+properly assess risks with the assistance of newer technologies.
+in this paper we utilize machine learning techniques to predict
+the approval or denial of a mortgage applicant. the mortgage
+decision will be determined by a two-tier machine learning model
+that examines micro and macro risk exposures. we performed
+comparative analysis using logistic regression, random forest,
+adaboost optimizer, and deep neural network. logistic regression
+provided optimal results and thus the decision model. our model
+currently tests at an accuracy level of 85.85% and f1 score of
+0.87 using logistic regression. this technology will offer a unique
+perspective and add value to banking risk models.
+index terms—machine learning model, mortgage credit
+risk, logistic regression, random forest classifier, deep neural
+network, classification and regression trees, gdp, unemploy-
+ment, home mortgage disclosure act, the housing and eco-
+nomic recovery act (hera).
+i. 

@@ -1,0 +1,19 @@
+
+we show that adding differential privacy to
+explainable boosting machines (ebms),
+a
+recent method for training interpretable ml
+models, yields state-of-the-art accuracy while
+protecting privacy. our experiments on multiple
+classification and regression datasets show
+that dp-ebm models suffer surprisingly little
+accuracy loss even with strong differential privacy
+guarantees. in addition to high accuracy, two
+other benefits of applying dp to ebms are:
+a) trained models provide exact global and
+local interpretability, which is often important in
+settings where differential privacy is needed; and
+b) the models can be edited after training without
+loss of privacy to correct errors which dp noise
+may have introduced.
+1. 

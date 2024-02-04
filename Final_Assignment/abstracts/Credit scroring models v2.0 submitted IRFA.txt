@@ -1,0 +1,21 @@
+ 
+this study examines the evaluation of machine learning models for credit scoring and probability of 
+default (pd) prediction. we present and analyse the performance metrics used in 152 articles. despite 
+the prevalent use of statistical performance metrics for model assessment and regulatory compliance, 
+our analysis reveals their limitations. our evaluation demonstrates a significant disconnect between 
+these statistical metrics and the financial performance of credit scoring models. this divergence is 
+particularly pronounced as risk tolerance increases. popular metrics such as auroc, accuracy or f1 
+are insufficient for assessing the efficiency of pd prediction algorithms, suffering from poor ability to 
+address three key challenges: class imbalance, the spectrum of risk appetite, and the cost imbalance of 
+prediction errors. 
+to address this, we propose a financial performance-based metric that considers credit risk appetite, 
+loss given default (lgd), and the lender’s regulatory framework. this metric emerges as a robust 
+predictor of model performance on new data, offering a more reliable basis for model evaluation and 
+selection, reshaping lender practices and academic research in credit risk management, and offering 
+insights into regulatory oversight of credit scoring models. 
+ 
+keywords: credit risk; machine learning; deep learning; probability of default; performance criteria 
+jel: c45, c53, g11, g17, n2. 
+ 
+ 
+1. 

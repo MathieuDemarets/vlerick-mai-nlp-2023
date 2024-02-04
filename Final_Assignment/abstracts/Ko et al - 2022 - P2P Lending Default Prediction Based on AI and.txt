@@ -1,0 +1,17 @@
+: peer-to-peer lending (p2p lending) has proliferated in recent years thanks to fintech and big
+data advancements. however, p2p lending platforms are not tightly governed by relevant laws yet,
+as their development speed has far exceeded that of regulations. therefore, p2p lending operations
+are still subject to risks. this paper proposes prediction models to mitigate the risks of default
+and asymmetric information on p2p lending platforms. specifically, we designed sophisticated
+procedures to pre-process mass data extracted from lending club in 2018 q3–2019 q2. after that,
+three statistical models, namely, logistic regression, bayesian classifier, and linear discriminant
+analysis (lda), and five ai models, namely, decision tree, random forest, lightgbm, artificial
+neural network (ann), and convolutional neural network (cnn), were utilized for data analysis.
+the loan statuses of lending club’s customers were rationally classified. to evaluate the models,
+we adopted the confusion matrix series of metrics, auc-roc curve, kolmogorov–smirnov chart
+(ks), and student’s t-test. empirical studies show that lightgbm produces the best performance
+and is 2.91% more accurate than the other models, resulting in a revenue improvement of nearly
+usd 24 million for lending club. student’s t-test proves that the differences between models are
+statistically significant.
+keywords: p2p lending default prediction; data processing; ai model; statistical model
+1. 

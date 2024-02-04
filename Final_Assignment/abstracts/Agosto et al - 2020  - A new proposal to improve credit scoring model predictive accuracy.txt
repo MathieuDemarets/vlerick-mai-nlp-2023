@@ -1,0 +1,19 @@
+—machine learning models and artificial intelligence
+algorithms are required to provide powerful predictions to
+support the decision process of operators in the fintech sector,
+characterised by an extensive use of credit scoring models
+and digitalised financial services. in such a context, the model
+predictive accuracy assessment represents a basic requirement.
+on the one hand, literature provides several predictive accuracy
+measures but, on the other hand, these measures are typically
+computationally intensive or are based on subjective criteria.
+in this paper a solution is provided through a novel predictive
+accuracy measure, we called rank graduation accuracy (rga),
+which is based on the distance between the predicted and
+observed ranks of the response variable. the rga presents
+properties which allow to fulfill the need of ensuring reliable
+predictions improving the model predictive accuracy assessment
+in highly complex situations.
+keywords–machine learning models; artificial intelligence-
+based systems; predictive accuracy; credit scoring models.
+i.

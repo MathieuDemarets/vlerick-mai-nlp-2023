@@ -1,0 +1,20 @@
+
+deep neural networks (dnns) are powerful black-box predictors that have achieved
+impressive performance on a wide variety of tasks. however, their accuracy comes
+at the cost of intelligibility: it is usually unclear how they make their decisions.
+this hinders their applicability to high stakes decision-making domains such as
+healthcare. we propose neural additive models (nams) which combine some of
+the expressivity of dnns with the inherent intelligibility of generalized additive
+models. nams learn a linear combination of neural networks that each attend to a
+single input feature. these networks are trained jointly and can learn arbitrarily
+complex relationships between their input feature and the output. our experiments
+on regression and classification datasets show that nams are more accurate than
+widely used intelligible models such as logistic regression and shallow decision
+trees. they perform similarly to existing state-of-the-art generalized additive
+models in accuracy, but are more flexible because they are based on neural nets
+instead of boosted trees. to demonstrate this, we show how nams can be used
+for multitask learning on synthetic data and on the compas recidivism data due
+to their composability, and demonstrate that the differentiability of nams allows
+them to train more complex interpretable models for covid-19. source code is
+available at neural-additive-models.github.io.
+1

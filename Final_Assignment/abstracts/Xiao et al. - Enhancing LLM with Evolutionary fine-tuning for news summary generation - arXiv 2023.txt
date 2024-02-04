@@ -1,0 +1,45 @@
+ 
+news 
+summary 
+generation 
+is 
+an 
+important task in the field of intelligence 
+analysis, which can provide accurate and 
+comprehensive information to 
+help 
+people better understand and respond to 
+complex real-world events. however, 
+traditional news summary generation 
+methods face some challenges, which are 
+limited by the model itself and the 
+amount of training data, as well as the 
+influence of text noise, making it difficult 
+to 
+generate 
+reliable 
+information 
+accurately. in this paper, we propose a 
+new paradigm for news summary 
+generation using llm with powerful 
+natural language understanding and 
+generative capabilities. we use llm to 
+extract multiple structured event patterns 
+from the events contained in news 
+paragraphs, evolve the event pattern 
+population with genetic algorithm, and 
+select the most adaptive event pattern to 
+input into the llm to generate news 
+summaries. a news summary generator 
+(nsg) is designed to select and evolve 
+the event pattern populations and 
+generate 
+news 
+summaries. 
+the 
+experimental results show that the news 
+summary generator is able to generate 
+accurate and reliable news summaries 
+with some generalization ability. 
+ 
+1. 
