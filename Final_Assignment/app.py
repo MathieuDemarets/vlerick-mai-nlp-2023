@@ -4,6 +4,9 @@ import streamlit as st
 import os
 import shutil
 import numpy as np
+import time
+import keyboard
+import psutil
 
 
 def SemanticSearchEngine_N(
@@ -96,3 +99,14 @@ if __name__ == '__main__':
         retrieved = SemanticSearchEngine_N(
             query, n=n, softmax=softmax, output_path=output_path)
         st.write(retrieved)
+
+    # Solution to shut down the app inspired by: https://discuss.streamlit.io/t/close-streamlit-app-with-button-click/35132/4
+    if st.button("Shut Down"):
+        # Give a bit of delay for user experience
+        time.sleep(3)
+        # Close streamlit browser tab
+        keyboard.press_and_release('ctrl+w')
+        # Terminate streamlit python process
+        pid = os.getpid()
+        p = psutil.Process(pid)
+        p.terminate()
